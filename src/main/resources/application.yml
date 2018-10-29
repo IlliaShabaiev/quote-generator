@@ -1,0 +1,4 @@
+ws1:
+  baseurl: "https://www.wiseoldsayings.com"
+  inspiration: "/inspiration-quotes"
+  slash: "/"
